@@ -1,6 +1,6 @@
 {
   "name": "profiler-timer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A profiler to time the execution",
   "repository": {
     "type" : "git",
