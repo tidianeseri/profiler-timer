@@ -2,6 +2,10 @@
   "name": "profiler-timer",
   "version": "0.0.1",
   "description": "A profiler to time the execution",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/tidianeseri/profiler-timer"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -18,7 +22,7 @@
     "typescript": "3.8.3"
   },
   "files": [
-    "lib"
+    "dist"
   ],
   "publishConfig": {
     "access": "public"
